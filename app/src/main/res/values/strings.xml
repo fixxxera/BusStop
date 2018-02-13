@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusStop</string>
+    <string name="buttonText">Check</string>
+    <string name="_64">64</string>
+    <string name="_93">93</string>
+    <string name="_98">98</string>
+    <string name="_122">122</string>
+    <string name="textview">--</string>
+</resources>
